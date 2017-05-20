@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\cs1\2017\dhansen17\cs475w-1\test_1\test_1\source.cpp(99): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\cs1\2017\dhansen17\cs475w-1\test_1\test_1\source.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  test_1.vcxproj -> \\cs1\2017\dhansen17\CS475W-1\test_1\Debug\test_1.exe
+  test_1.vcxproj -> \\cs1\2017\dhansen17\CS475W-1\test_1\Debug\test_1.pdb (Full PDB)
